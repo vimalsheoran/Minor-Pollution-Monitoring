@@ -1,0 +1,12 @@
+Here is the list of major pollutants in Indian cities.
+
+1. Sulphur Dioxide 
+2. Nitrogen Dioxide
+3. Carbon Monoxide
+4. Particulate Matter (PM) and Suspended Particulate Matter (SPM)
+
+Here is a list of usable sensors
+
+1. MQ-7 sensor for measuring Carbon Monoxide
+2. MQ-135 sensor for detecting Sulphur, Nitrogen and Other Gases
+3. DSM501A Particulater Matter and Suspended Particulate Matter Sensor
