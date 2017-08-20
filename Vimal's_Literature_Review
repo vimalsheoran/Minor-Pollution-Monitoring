@@ -1,0 +1,107 @@
+My References
+
+1. Abstract:
+	This paper presents the idea of monitoring ambient air pollution in real time . The system consists of a network of monitoring systems with peer-to-peer ability. Each of the monitoring system is well equipped with sensors and data logging and maintainance setups. The data gathered by the web server is delivered to the users through the means of web applications and mobile applications. The system is powered by four solar stations spread in an area of one kilometer-square. Assements and analysis of the data collected during the past four months has been performed. The efficieny of the operations performed depends upon the amount of data collected.
+
+   Citation:
+	Kadri, Abdullah, et al. "Wireless sensor network for real-time air pollution monitoring." Communications, Signal Processing, and their Applications (ICCSPA), 2013 1st International Conference on. IEEE, 2013.
+
+2. Abstract:
+	Air pollution is a serious issue for the urban areas in the developed and developing nations. An alarming rise in the mortallity and morbidity rate has been observed due to the recent surge in air pollution levels. These findings and data has been important and has helped the authorities take better steps for control and device new standards for emission.
+
+   Citation:
+	Samet, Jonathan M., et al. "Fine particulate air pollution and mortality in 20 US cities, 1987–1994." New England journal of medicine 343.24 (2000): 1742-1749.
+
+3. Abstract:
+	The authors address two research questions: (1) Are populations with lower socioeconomic status, compared with people of higher socioeconomic status, more likely to be exposed to higher levels of particulate air pollution in Hamilton, Ontario, Canada? (2) How sensitive is the association between levels of particulate air pollution and socioeconomic status to specification of exposure estimates or statistical models? Total suspended particulate (TSP) data from the twenty-three monitoring stations in Hamilton (1985–94) were interpolated with a universal kriging procedure to develop an estimate of likely pollution values across the city based on annual geometric means and extreme events. Comparing the highest with the lowest exposure zones, the interpolated surfaces showed more than a twofold increase in TSP concentrations and more than a twentyfold difference in the probability of exposure to extreme events. Exposure estimates were related to socioeconomic and demographic data from census tract areas by using ordinary least squares and simultaneous autoregressive (SAR) models. Control for spatial autocorrelation in the SAR models allowed for tests of how robust specific socioeconomic variables were for predicting pollution exposure. Dwelling values were significantly and negatively associated with pollution exposure, a result robust to the method of statistical analysis. Low income and unemployment were also significant predictors of exposure, although results varied depending on the method of analysis. Relatively minor changes in the statistical models altered the significant variables. This result emphasizes the value of geographical information systems (GIS) and spatial statistical techniques in modelling exposure. The result also shows the importance of taking spatial autocorrelation into account in future justice – health studies.
+
+   Citation:
+	Jerrett, Michael, et al. "A GIS–environmental justice analysis of particulate air pollution in Hamilton, Canada." Environment and Planning A 33.6 (2001): 955-973.
+
+4. Abstract:
+	Exposure assessment studies in the developing world are important. Although recent years have seen an increasing number of traffic-related pollution exposure studies, exposure assessment data on this topic are still limited. Differences among measuring methods and a lack of strict quality control in carrying out exposure assessment make it difficult to generalize and compare findings between studies. In this article, exposure assessment studies carried out in the developing world on several traffic-related air pollutants are reviewed. These pollutants include particulate matter (PM), carbon monoxide (CO), nitrogen dioxide (NO2), volatile organic compounds (VOCs), and polycyclic aromatic hydrocarbons (PAHs). In addition, it discusses advantages and disadvantages of various monitoring methods (ambient fixed-site monitoring, microenvironment monitoring, and personal exposure assessment using portable samplers) for these pollutants in exposure assessment studies. Also included in this paper is a brief introduction of standards for these pollutants in ambient air or in occupational settings established by the United States Environmental Protection Agency (USEPA), the United States Occupational Safety and Health Administration (OSHA) and the World Health Organization (WHO). The review ends with a summary of the limitations and gaps in recent studies and suggestions for future research in the developing world.
+
+   Citation:
+	Han, Xianglu, and Luke P. Naeher. "A review of traffic-related air pollution exposure assessment studies in the developing world." Environment international 32.1 (2006): 106-120.
+
+5. Abstract:
+	In order to assess exposure to air pollution from traffic of subjects living near motorways, traffic related air pollutants were measured indoors and outdoors in six city districts near motorways in the West of the Netherlands. Outdoor measurements of PM10, PM2.5, black smoke and benzene were conducted at four different distances from the roadside in two of the six city districts. NO2 was measured in all city districts. Indoor concentrations of PM10 and NO2 were measured in 12 schools in the same six city districts. Reflectance of indoor PM10 filters was measured to get an impression of black smoke concentrations indoors. Outdoor concentrations of black smoke and NO2 declined with distance from the roadside. No gradient was found for PM10, PM2.5 and benzene. The gradients for NO2 and black smoke were curvilinear and more evident in periods that the city districts had been downwind from the motorway for at least 33% of the time. PM10 concentrations in schools were high compared to outdoor concentrations and were not correlated with distance of the school from the motorway, traffic intensity and percentage of time downwind. Indoor black smoke concentrations were significantly correlated with truck traffic intensity and percentage of time downwind. NO2 concentrations in classrooms were significantly correlated with car and total traffic intensity, percentage of time downwind and distance of the school from the motorway.
+
+   Citation:
+	Roorda-Knape, Mirjam C., et al. "Air pollution from traffic in city districts near major motorways." Atmospheric Environment 32.11 (1998): 1921-1930.
+
+6. Abstract:
+	Peroxidase activity (p. a.) of several tree species was investigated in a forest influenced by F-containing exhalates of an aluminium smelter. P. a. increases with age of tissue, particularly under the influence of fluorides. It was used therefore to map the zone of plant reaction in apricot orchards in the vicinity of an aluminium smelter and it supplements foliar analysis.
+
+P. a. in foliage of white ash was used to determine whether exhaust of automotive traffic in the city of Zurich does affect vegetation. A significant increase of p. a. was found in the city although the plants did not show any symptoms of injury.
+
+P. a. thus is a very sensitive indicator of plant reaction to air pollutants and allows to detect “hidden” injury (no visible symptoms).
+
+   Citation:
+	Keller, Th. "The use of peroxidase activity for monitoring and mapping air pollution areas." Forest Pathology 4.1 (1974): 11-19.
+
+7. Abstract:
+	We describe a fully computer-controlled differential optical absorption spectroscopy system for atmospheric air pollution monitoring. A receiving optical telescope can sequentially tune in to light beams from a number of distant high-pressure Xe lamp light sources to cover the area of a medium-sized city. A beam-finding servosystem and automatic gain control permit unattended long-time monitoring. Using an astronomical code, we can also search and track celestial sources. Selected wavelength regions are rapidly and repetitively swept by a monochromator to sensitively record the atmospheric absorption spectrum while avoiding the detrimental effects of atmospheric turbulence. By computer fitting to stored laboratory spectra, we can evaluate the path-averaged concentration of a number of important pollutants such as NO2, SO2, and O3. A measurement of NH3 and NO close to the UV limit is also demonstrated.
+
+   Citation:
+	Edner, Hans, et al. "Differential optical absorption spectroscopy (DOAS) system for urban atmospheric pollution monitoring." Applied optics 32.3 (1993): 327-333.
+
+8. Abstract:
+	Heterogeneity in the response to PM2.5 is hypothesized to be related to differences in particle composition across monitoring sites which reflect differences in source types as well as climatic and topographic conditions impacting different geographic locations. Identifying spatial patterns in particle composition is a multivariate problem that requires novel methodologies.
+109 monitoring sites with 75% reported speciation data during the period 2003–2008 were selected. These sites were categorized based on their average PM2.5 composition over the study period using k-means cluster analysis. The obtained clusters were validated and characterized based on their physico-chemical characteristics, geographic locations, emissions profiles, population density and proximity to major emission sources.
+	
+   Citation:
+	Austin, Elena, et al. "A framework to spatially cluster air pollution monitoring sites in US based on the PM 2.5 composition." Environment international 59 (2013): 244-254.
+
+9. Abstract:
+	We report a biomonitoring study of air pollution in Rome based on the magnetic properties of tree leaves.
+
+In a first step, magnetic properties of leaves from different tree species from the same location were compared. It was observed that leaves of evergreen species, like Quercus ilex, present much higher magnetic intensities than those of deciduous species, like Platanus sp., suggesting that leaves accumulate magnetic pollutants during their whole lifespan.
+
+In a second step, leaves from Q. ilex and Platanus sp. trees, both very common in Rome, have been used to monitor traffic emission pollution in two different periods. A Platanus sp. sampling campaign was undertaken in October 2001, at the end of the seasonal vegetational cycle, and 5 Q. ilex monthly sampling campaigns from April to August 2002.
+
+The strong difference observed in the magnetic susceptibility from leaves collected in green areas and roads allowed the realization of detailed pollution distribution maps from the south of Rome. Magnetic properties indicate that high concentrations and relatively larger grain-sizes of magnetic particles are observed in trees located along roads with high vehicle traffic and in the vicinity of railways. The decrease in concentration and grain size of magnetic particles with distance from the roadside confirms that magnetic properties of leaves are related to air pollution from vehicle emissions.
+
+The results indicate that a magnetic survey of tree leaves, which is relatively rapid and inexpensive, may be used in addition to the classical air quality monitoring systems to identify and delineate high-polluted areas in urban environments.
+   
+   Citation:
+	Moreno, Eva, et al. "Biomonitoring of traffic air pollution in Rome using magnetic properties of tree leaves." Atmospheric Environment 37.21 (2003): 2967-2977.
+
+10. Abstract:
+	EC Directive 2008/50/CE on ambient air quality and cleaner air for Europe specifies the obligations of Member States regarding fixed measurements of atmospheric pollutants in areas where maximum concentration levels exceed the lower assessment threshold. However, indications as to the siting of atmospheric monitoring stations are less precise and sometimes confusing. Campaigns to measure benzene and other volatile organic compounds in Murcia in 2007 and 2008 revealed that the areas where measurements coincided with the mean concentration for the whole city were always practically the same. Consequently, we propose a method for siting atmospheric monitoring stations in cities for which emission sources remain steady throughout the year, as is the case for cities in most southern European countries, where the most important emission source is traffic. The method is particularly useful for towns in which only one fixed measuring point is compulsory and should help local authorities in making correct decisions in this context.
+
+    Citation:
+	Ferradás, Enrique González, et al. "An approach for determining air pollution monitoring sites." Atmospheric Environment 44.21 (2010): 2640-2645.
+
+11. Abstract:
+	During the last years, an important number of episodes with peak nitrogen dioxide levels occurred in the Paris region. Modelling air pollution is necessary to predict future episodes and to take decisions for the protection of populations. Our study proposes a methodology for urban air pollution analysis, as a preliminary stage of its modelling.
+
+This paper focuses on two major points: the estimation of pollutant concentration fields using measures from a monitoring network, and the definition of a reduced number of concentration spatial patterns. Interpolation by thin plate splines is proposed and the approximation quality is estimated by leave-one-out cross validation tests. Analysis of large numbers of pollutant fields is difficult: cluster analysis of spatial distributions is proposed. For this study, Ward's algorithm is selected and applied to AIRPARIF nitrogen dioxide data during peak episodes from January 1993 to December 1997. Finally, some results and conclusions are presented.
+
+    Citation:
+	Ionescu, Anda, et al. "Analytical determination and classification of pollutant concentration fields using air pollution monitoring network data: Methodology and application in the Paris area, during episodes with peak nitrogen dioxide levels." Environmental Modelling & Software 15.6 (2000): 565-573.
+
+12. Abstract:
+	An instrumental system and method for detecting and analyzing pollutant gases in the atmosphere, particularly sulfur dioxide, ozone, nitrogen dioxide, and nitric oxide utilizing the catalyzed chemiluminescence reaction of luminol (5-amino-2, 3-dihydro-1-4-phthalazinedione) with hydrogen peroxide. Sampled air streams, after appropriate treatment by adsorption column, are reacted with surface films of luminol-hydrogen peroxide solutions to give continuous, real time analysis of pollutant gases.
+
+    Citation:
+	 "System and method of air pollution monitoring utilizing chemiluminescence reactions." U.S. Patent 3,659,100, issued April 25, 1972.
+
+13. Abstract:
+	The rich regional air-monitoring network of the Emilia-Romagna region of Italy has been used to quantify the spatial variability of the main pollutants within urban environments and to analyze the correlations between stations. The spatial variability of the concentrations of the majority of pollutants within the city was very high, making it difficult to differentiate and characterize the urban environments and to apply legal limits with uniform criteria. On the other hand, the correlations between the fixed-site monitoring stations were high enough for their data to be retained generally very appropriately for controlling temporal trends. Starting from the high correlation level, a procedure was proposed and tested to derive pollution levels, using short-term measurements, such as passive samplers and mobile-station data. The importance of long-term statistics in urban air pollution mapping was emphasized. Treatment of missing data in time series and quality assurance were indicated as possible fields for applications for the correlation properties.
+	
+    Citation:
+	Sajani, Stefano Zauli, et al. "Urban air pollution monitoring and correlation properties between fixed-site stations." Journal of the Air & Waste Management Association 54.10 (2004): 1236-1241.
+
+14. Abstract:
+	The use of mathematical modelling for investigation of the efficiency of existing monitoring sites for the impact of SO2 emissions from power stations in the state of Kuwait is described. The Industrial Source Complex Short Term (ISCST3) model is utilised to obtain the spatial and temporal variations of SO2 over residential areas. Statistical comparison between the 50 highest daily measured and predicted SO2 concentrations at six monitoring sites shows that the model is capable of generating results with accuracy of 60–94%. An important conclusion of this work is that the existing locations of the Kuwait-EPA monitoring stations are not suitable for measuring the actual impact of SO2. Therefore, there is a need for relocation of these sites to register the highest levels of SO2 emitted from the current power stations in the state of Kuwait.
+
+   Citation:
+	Al-Rashidi, M. S., V. Nassehi, and R. J. Wakeman. "Investigation of the efficiency of existing air pollution monitoring sites in the state of Kuwait." Environmental pollution 138.2 (2005): 219-229.
+
+15. Abstract:
+	Measurements of urban air pollution are usually confined to a few locations within a city area. Monitoring stations are often situated in streets with significant traffic levels or in places where severe pollution problems are expected. Such measurements are naturally influenced by very local conditions and care must be taken in interpreting the results. This is especially important when the measurements are used for estimating urban air pollution levels or comparing air quality in different cities. Another frequent application of street measurements is for public information or warning the population of elevated pollution levels. Estimating the dangers of long-term exposure to air pollution means careful consideration must be given to how representative these measurements actually are. In this paper the influence of local conditions on air pollution concentrations is discussed, regarding especially the dependency of pollution levels on street configuration and meteorolgical parameters. The examples used are based on measurements from locations in Copenhagen and on model calculations using the Danish Operational Street Pollution Model (OSPM). It is shown that large concentration gradients can occur in street canyons with leeward concentrations far higher than windward concentrations. Thus, street measurements are site-dependent and not representative for urban areas. Model calculations with OSPM agree well with measurements.
+
+   Citation:
+	Berkowicz, Ruwim, et al. "Using measurements of air pollution in streets for evaluation of urban air quality—meterological analysis and model calculations." Science of the total environment 189 (1996): 259-265.
+
