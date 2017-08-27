@@ -1,0 +1,11 @@
+1. Raspberry Pi model B - 3089
+2. SD card and adapter - 800 - 900
+3. MQ-7 sensor - 250
+4. MQ-135 - 270
+5. DSM501A - 1600
+
+6. Miscellaneous - 500
+
+Total = 6700
+
+Per Person = 2400 
